@@ -13,7 +13,7 @@ A fast, responsive, SEO-ready static portfolio for GitHub Pages.
 Open `index.html` directly, or use VS Code + Live Server.
 
 ## Free hosting
-Recommended: GitHub Pages. Create a public repository named `<[your-github-username>.github.io](https://github.com/habibur-1816/habiburrahman.git)`, upload these files, then enable Pages from Settings → Pages.
+Recommended: GitHub Pages. Create a public repository named `<habibur-1816>.github.io](https://github.com/habibur-1816/habiburrahman.git)`, upload these files, then enable Pages from Settings → Pages.
 
 ## SEO checklist
 - Use one clear H1.
